@@ -6,3 +6,7 @@ Examples with futures and promises in Scala and Akka
 #include "/src/main/resources/example.json"
 
 #include "test.md"
+
+{{md '/src/main/resources/example.json'}} 
+
+{{md 'test.json'}} 
